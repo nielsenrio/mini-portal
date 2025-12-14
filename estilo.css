@@ -34,7 +34,7 @@ nav ul {
     padding: 2px;
     display: flex;
     justify-content: center;
-    gap: 40px;
+    gap: 4%;
 }
 
 .hero {
@@ -50,13 +50,13 @@ nav ul {
 
 .hero h2 {
     font-style: oblique;
-    margin-left: 10px;
+    margin-left: 1rem;
     font-size: 20px;
     margin-bottom: 12px;
 }
 
 .hero img {
-    width: 1000px;
+    width: 100%;
 }
 
 .container {
@@ -68,7 +68,7 @@ nav ul {
     justify-content: space-between;
     align-items: flex-start;
     flex-wrap: wrap;
-    gap: 10px;
+    gap: 10%;
     box-sizing: border-box;
 }
 
@@ -84,8 +84,8 @@ nav ul {
 }
 
 .card {
-    width: 1000px;
-    height: 220px;
+    width: 100%;
+    height: 10%;
     padding: 5px;
     border: 1px solid #ddd;
     border-radius: 6px;
@@ -93,7 +93,7 @@ nav ul {
 }
 
 .card img {
-    width: 100px;
+    width: 10%;
     margin-bottom: 1px;
 }
 
@@ -107,7 +107,7 @@ nav ul {
 
 .btn-style {
     padding: 4px 7px;
-    border-radius: 400px;
+    border-radius: 40%;
     border: none;
     background-color: #717171;
     color: #405252;
@@ -132,7 +132,7 @@ aside ul {
     padding: 2px;
     display: flex;
     justify-content: center;
-    gap: 40px;
+    gap: 2%;
 }
 
 footer {
@@ -144,7 +144,7 @@ footer {
 }
 
 footer h2 {
-    margin-bottom: 5px;
+    margin-bottom: 1rem;
 }
 
 footer p {
